@@ -27,7 +27,7 @@ const INQUIRY_SUPPORT_EMAIL = 'info@koibanda.com';
 /// You can add help line number here for contact. It's demo number
 const HELP_LINE_NUMBER = '+916392363869';
 
-/// STRIPE PAYMENT DETAILssss
+/// STRIPE PAYMENT DETAIL----
 const STRIPE_MERCHANT_COUNTRY_CODE = 'IN';
 const STRIPE_CURRENCY_CODE = 'INR';
 DateTime todayDate = DateTime(2023, 9, 7);
