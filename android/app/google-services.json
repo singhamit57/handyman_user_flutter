@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370557556611",
+    "project_id": "fir-1b324",
+    "storage_bucket": "fir-1b324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370557556611:android:69559a0d64648a63bec8b6",
+        "android_client_info": {
+          "package_name": "com.koibanda.servicebooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370557556611-jk5oppmrtl4734de76sga58jpr9baogb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnNywbLfuWIwGUlKAvYa-lTw5yvl86zEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370557556611-jk5oppmrtl4734de76sga58jpr9baogb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
